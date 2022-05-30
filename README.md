@@ -4,15 +4,15 @@
   
 
 ### <div align="center">Hi i'm Thomas, I'm student at 42 School since February 2022 👨‍💻</div>  
-  
+<br>  
 
-<div align="center">- 🌱 I’m currently learning C & C++.</div>
-  
+<div align="center">🌱 I’m currently learning C/C++.</div>
+  <br>
 
-<div align="center">- 🌍  I'm based in Mulhouse.</div>  
+<div align="center">🌍  I'm based in Mulhouse.</div>  
   
-
-<div align="center">- ✉️ You can contact me at tbraquem@student.42mulhouse.fr</div>  
+<br>
+<div align="center">✉️ You can contact me at tbraquem@student.42mulhouse.fr</div>  
   
 
 <br/>  
@@ -27,9 +27,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/thomasbrq" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/thomas-braquemart" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
