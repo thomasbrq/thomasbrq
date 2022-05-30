@@ -6,29 +6,24 @@
 ### <div align="center">Hi i'm Thomas, I'm student at 42 School since February 2022 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning C & C++.  
+<div align="center">- 🌱 I’m currently learning C & C++.</div>
   
 
-- 🌍  I'm based in Mulhouse.  
+<div align="center">- 🌍  I'm based in Mulhouse.</div>  
   
 
-- ✉️ You can contact me at tbraquem@student.42mulhouse.fr  
+<div align="center">- ✉️ You can contact me at tbraquem@student.42mulhouse.fr</div>  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 <div align="center">  
 <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
-</td></tr></table>  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
